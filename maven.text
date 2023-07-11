@@ -1,0 +1,15 @@
+Maven Introduction
+>>It is an Automation Project management tool developed by Apache software
+foundation.
+• It is based on POM (Project Object Model). (POM.xml) xml: eXtensible Markup
+Language.
+• it is a build tool and manage dependencies.
+• It can build any number of projects into desired Output such as .jar, .war and
+metadata.
+• It is mostly used for java-based projects.
+• It was initially released on 13 July 2004.
+• Maven is written in java.
+• Meaning of Maven is Accumulator of Knowledge in Yiddish language.
+• Maven helps in getting the right jar file for each project as there may be
+different version of separate packages.
+• For downloading dependencies visit mvnrepository.com
